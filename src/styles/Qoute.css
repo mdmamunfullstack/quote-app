@@ -1,0 +1,20 @@
+.qoute-container{
+    border-bottom: 1px solid gray;
+    padding-top: 2%;
+}
+
+.qoute{
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+
+.qoute-author{
+    color:lightgray;
+    font-style: .9em;
+}
+
+.highlight{
+    font-weight: bold;
+    color: aquamarine;
+}
